@@ -1,0 +1,19 @@
+#spree-header {
+  background: url("/assets/background/headerbg1.jpg")!important;
+  margin-bottom: 20px;
+}
+#link-to-cart{
+	background-color: #428bca;
+  border-color: #428bca;
+  color: white;
+}
+#main-nav-bar ul li{
+	background-color: #428bca;
+  border-color: #428bca;
+  color: white;
+}
+#main-nav-bar ul li:hover{
+	background-color: #3071a9;
+  border-color: #285e8e;
+  color: white;
+}
