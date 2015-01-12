@@ -17,3 +17,17 @@
   border-color: #285e8e;
   color: white;
 }
+
+
+@media (min-width: 992px){
+  .container.content-area{
+    margin-top: 160px;
+  }
+  #spree-header{
+    position: fixed;
+    height: 140px;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+  }
+}
